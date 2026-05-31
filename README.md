@@ -191,8 +191,8 @@ Body (form-data):
 
 ## Author
 
-**Suhail Nasar**
-First-year B.Tech CSD Student, FISAT
+**Mohammed Suhail**
+B.Tech CSD Student, FISAT
 IIT Madras BS Data Science (concurrent)
 
 GitHub: [@suhailnasar](https://github.com/suhailnasar)
